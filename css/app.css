@@ -4,6 +4,15 @@
  * Font Awesome Pro 5.13.0 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license (Commercial License)
  */
+.title {
+  color: rgb(70, 130, 180);
+  font-size: 26.9667px;
+  text-align: center;
+  font-weight: bold;
+
+
+}
+ 
 
 .fa,
 .fas,
@@ -18,6 +27,9 @@
   font-variant: normal;
   text-rendering: auto;
   line-height: 1;
+}
+.tabulator .tabulator-header .tabulator-col {
+  text-align: center;
 }
 
 .fa-lg {
