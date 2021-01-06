@@ -11,7 +11,7 @@
   "author": "amarouane <am0089@uah.edu>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jquery": "^3.5.0",
     "tabulator-tables": "^4.6.2"
   },
